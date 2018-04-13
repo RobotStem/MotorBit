@@ -1,2 +1,2 @@
 # MotorBit
-From Motor:Bit , Elecfreaks.com
+Make code for Motor:Bit , Elecfreaks.com
