@@ -1,11 +1,7 @@
-# iBIT block package for MotorBit
-
-powered by micro:bit
+# Block package for MotorBit
 
  
 ### micro:bit Pin Assignment
-
-The following micro:bit pins are used for analog and digital sensors, DC motor drivers and servo motors:
 
 * ``P0`` -- Analog Input 0 for Buzzer
 * ``P13`` -- Digital Input/Output and AnalogWrite/Servo1
@@ -17,7 +13,7 @@ The following micro:bit pins are used for analog and digital sensors, DC motor d
 
 ### Motor control Block
 
-Use iBIT's motor block to drives motor forward and backward. The speed motor is adjustable between 0 to 100.
+Use motor block to drives motor forward and backward. The speed motor is adjustable between 0 to 100.
 
 * The dirrection must be select either `Forward` or `Backward`
 * Speed is an integer value between `0 - 100`
